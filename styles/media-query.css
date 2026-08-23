@@ -27,13 +27,22 @@
         width: 950px;
     }
     #login > #imagem{
-        float: left;
+        float: right;
         width: 50%;
         height: 100%;
         border-radius: 10px 0px 0px 10px;
     }
     #login > #formulario{
-        float: right;
+        float: left;
         width: 50%;
+    }
+    #formulario > h1{
+    font-size: 2em;
+    padding-bottom: 20px;
+    }
+
+    #formulario > p{
+    font-size: 1.2em;
+    padding-bottom: 20px;
     }
 }

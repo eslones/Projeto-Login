@@ -63,10 +63,12 @@ section > #imagem{
 
 #formulario > h1{
     text-align: center;
-    padding-bottom: 20px;
+    font-size: 1.5em;
+    margin-bottom: 10px;
 }
 
 #formulario > p{
+    font-size: 0.8em;
     padding-bottom: 20px;
 }
 
