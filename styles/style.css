@@ -68,6 +68,7 @@ section > #imagem{
 
 #formulario > p{
     font-size: 0.8em;
+    padding: 5px 0px;
 }
 
 form > div.campo{
